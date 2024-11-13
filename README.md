@@ -18,3 +18,4 @@ This project is a simple **Weather API** that fetches weather data for a given c
 ├── .env                                 # Environment variables (contains API keys)
 ├── package.json                        # Project metadata and dependencies
 └── README.md                           # Project documentation (this file)
+The link:localhost:3000/api/weather?city=Nairobi
